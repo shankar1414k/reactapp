@@ -2,10 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: reactapp
+  description: react-app
   annotations:
     github.com/project-slug: shankar1414k/reactapp
 spec:
   type: other
   lifecycle: experimental
   owner: backstage
-  description: reactapp
+  
