@@ -8,3 +8,4 @@ spec:
   type: other
   lifecycle: experimental
   owner: backstage
+  description: reactapp
