@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: shankar1414k/reactapp
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: backstage
