@@ -4,7 +4,7 @@ metadata:
   name: reactapp
   description: react-app
   annotations:
-    github.com/project-slug: shankar1414k/reactapp
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: experimental
